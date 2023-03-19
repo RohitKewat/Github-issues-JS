@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#issue-title{
+    background: azure;
+    width: 21%;
+    position: relative;
+    left: 38%;
+    font-weight: bold;
+    font-size: large;
+}
+ol li {
+    margin: 19px;
+
+}
+button{
+    
+    border-radius: 26%;
+    background: beige;
+    /* margin: 1px; */
+    padding: 7px;
+    /* font-size: 16px; */
+    font-weight: 900;
+}
